@@ -34,5 +34,15 @@
 4 语言环境配置-Python
 官方渠道下载 https://www.python.org/downloads/
 
+vscode插件安装：
+- python语言包（包含pylance）
+
 5 语言环境配置-Golang
 官方渠道下载 https://go.dev/dl/ ，苹果芯片（m1/m2）选择 arm64 版本
+设置goproxy
+https://goproxy.cn/
+
+vscode插件安装：
+- golang语言包
+
+打开vscode会提示安装 gopl，go-outline，点击安装即可

@@ -39,6 +39,12 @@
 - git graph
 - 简体中文语言包
 
+## 软件管理
+
+一般都是遵循官网下载的方式进行软件安装，但是一些网站提供的下载方式是使用 homebrew，这时可以通过 homebrew 进行安装
+
+homebrew 安装参考 https://brew.sh/
+
 ## 不同语言开发环境配置
 
 - [Golang](./Golang.md)

@@ -14,3 +14,4 @@
 ## 其他
 
 - [容器化](./Containerization.md)
+- [播放器](./Player.md)

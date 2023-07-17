@@ -22,4 +22,4 @@ Linux无需下载desktop，参考 https://podman.io/docs/installation#installing
 
 ### k8s 相关工具
 
-参考 https://kubernetes.io/docs/tasks/tools/，一般安装 kubectl 就够了
+参考 https://kubernetes.io/docs/tasks/tools/ ，一般安装 kubectl 就够了

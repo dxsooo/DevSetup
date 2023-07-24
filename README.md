@@ -10,6 +10,7 @@
 
 - [Golang](./Golang.md)
 - [Python](./Python.md)
+- [JavaScript](./JavaScript.md)
 
 ## 其他
 

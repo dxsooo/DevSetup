@@ -7,3 +7,8 @@
 ## Typescript
 
 `npm install -g typescript`
+
+## VSCode 配置
+
+插件安装：
+- ESlint

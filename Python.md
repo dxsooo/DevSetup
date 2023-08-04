@@ -11,6 +11,8 @@
   - 配置 format on save
  
 ## 包管理器
-使用 [Poetry](https://python-poetry.org/) 为包管理器，参考官方文档进行下载，使用参考 https://blog.kyomind.tw/python-poetry ，调整配置：
+使用 [Poetry](https://python-poetry.org/) 为包管理器，参考官方文档进行下载，默认安装如果没有加到PATH中，需要手动增加
+
+使用参考 https://blog.kyomind.tw/python-poetry ，调整配置：
 
 `poetry config virtualenvs.in-project true`

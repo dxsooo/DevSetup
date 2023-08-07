@@ -39,6 +39,7 @@
 - git graph
 - 简体中文语言包
 - GitLens （和git graph有功能重叠，树状显示效果git graph更佳，GitLens主要是inline git blame好用）
+- Markdown Preview Mermaid Support
 
 ## 软件管理
 

@@ -29,30 +29,19 @@
 - 根据需要设置为系统代理
 - 根据需要设置为开机启动
 
-## VScode 配置
-安装：
-
-官方渠道下载：https://code.visualstudio.com/ ，下载后将app拉入【应用程序】
-，打开程序并通过命令面板选择【在PATH中安装code命令】
-
-插件安装：
-- git graph
-- 简体中文语言包
-- GitLens （和git graph有功能重叠，树状显示效果git graph更佳，GitLens主要是inline git blame好用）
-- Markdown Preview Mermaid Support
-
 ## 软件管理
 
 一般都是遵循官网下载的方式进行软件安装，但是一些网站提供的下载方式是使用 homebrew，这时可以通过 homebrew 进行安装
 
 homebrew 安装参考 https://brew.sh/
 
+## 通用开发
+
+- [ide](./ide.md)
+- [容器化](./Containerization.md)
+- [数据库工具](./DatabaseTool.md)
+
 ## 不同语言开发环境配置
 
 - [Golang](./Golang.md)
 - [Python](./Python.md)
-
-## 通用开发
-
-- [容器化](./Containerization.md)
-- [数据库工具](./DatabaseTool.md)

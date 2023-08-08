@@ -1,6 +1,6 @@
 # 网页浏览器
 
-仅推荐 chrome
+仅推荐 chrome/chromium
 
 ## 插件安装
 

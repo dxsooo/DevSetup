@@ -37,7 +37,7 @@ homebrew 安装参考 https://brew.sh/
 
 ## 通用开发
 
-- [ide](./ide.md)
+- [IDE](./IDE.md)
 - [容器化](./Containerization.md)
 - [数据库工具](./DatabaseTool.md)
 

@@ -14,7 +14,8 @@
 
 ## 其他
 
-- [IDE](./ide.md)
+- [IDE](./IDE.md)
+- [浏览器](./WebBrowser.md)
 - [容器化](./Containerization.md)
 - [播放器](./Player.md)
 - [数据库工具](./DatabaseTool.md)

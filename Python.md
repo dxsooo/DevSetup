@@ -16,3 +16,5 @@
 使用参考 https://blog.kyomind.tw/python-poetry ，调整配置：
 
 `poetry config virtualenvs.in-project true`
+
+> 注意，如果 MacOS 更新了系统的 python，使用 poetry 会出错，这时需要重新安装 poetry，或者参考 https://github.com/python-poetry/install.python-poetry.org/issues/71#issuecomment-1701942693 进行poetry 安装

@@ -2,9 +2,9 @@
 
 ## 关系型数据库（mysql）
 
-### Sequel Pro 【GUI】
+### Sequel Ace 【GUI】
 
-仅支持 MacOS，参考官网 https://www.sequelpro.com/ 下载安装
+仅支持 MacOS，参考官网 https://sequel-ace.com 下载安装
 
 ## 内存型数据库（redis）
 
